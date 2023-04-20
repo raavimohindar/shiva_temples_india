@@ -1,8 +1,5 @@
-33 districts, 74 revenue divisions and 594 mandals
----------------------------------------------------
-
-1) District: Adilabad
-   ******************
+1) Adilabad district
+   *****************
 
 Adilabad 
 =========
@@ -28,10 +25,8 @@ Narnoor
 Inderavelly
 Utnur
 
--- completed --
-
-2) District: Kumuram Bheem
-   ***********************
+2) Kumuram Bheem district
+   **********************
 
 Asifabad 
 ========
@@ -54,10 +49,8 @@ Bejjur
 Penchikalpet
 Dahegaon
 
--- completed --
-
-3) District: Mancherial
-   ********************
+3) Mancherial district
+   *******************
    
 Bellampally 
 ===========
@@ -83,10 +76,8 @@ Bheemaram
 Chennur
 Kotapalli
 
--- completed --
-
-4) District: Nirmal
-   ****************
+4) Nirmal district
+   ***************
    
 Bhainsa 
 =======
@@ -113,10 +104,8 @@ Pembi
 Kaddampeddur
 Dastuarabad
 
--- completed --
-
-5) District: Nizamabad
-   ********************
+5) Nizamabad district
+   ******************
    
 Armur 
 =====
@@ -156,10 +145,8 @@ Indalwai
 Dharpalle
 Sirkonda
 
--- completed --
-
-6) District: Jagtial
-   *****************
+6) Jagtial district
+   ****************
    
 Jagtial 
 =======
@@ -188,10 +175,8 @@ Ibrahimpatnam
 Mallapur
 Metpalle
 
--- completed --
-
-7) District: Peddapalli
-   ********************
+7) Peddapalli district
+   *******************
    
 Manthani 
 ========
@@ -213,10 +198,8 @@ Sultanabad
 Odela
 Srirampur
 
--- completed --
-
-8) District: Jayashankar Bhupalpally
-   *********************************
+8) Jayashankar Bhupalpally district
+   ********************************
    
 Bhupalpalle 
 ===========
@@ -232,10 +215,8 @@ Regonda
 Ghanapur_Mulug
 Bhupalpalle
 
--- completed --
-
-9) District: Bhadradri Kothagudem
-   ******************************
+9) Bhadradri Kothagudem district
+   *****************************
    
 Bhadrachalam 
 ============
@@ -266,10 +247,8 @@ Mulakalapalle
 Dammapeta
 Aswaraopeta
 
--- completed --
-
-10) District: Mahabubabad
-    *********************
+10) Mahabubabad district
+    ********************
     
 Mahabubabad 
 ===========
@@ -293,10 +272,8 @@ Danthalapalle
 Thorrur
 Peddavangara
 
--- completed --
-
-11) District: Warangal 
-    ******************
+11) Warangal district
+    *****************
     
 Narsampet 
 =========
@@ -317,10 +294,8 @@ Raiparthy
 Parvathagiri
 Khilla_Warangal
 
--- completed --
-
-12) District: Hanumakonda
-    *********************
+12) Hanumakonda district
+    ********************
 
 Hanumakonda 
 ===========
@@ -342,10 +317,8 @@ Atmakur
 Shayampet
 Nadikuda
 
--- completed --
-
-13) District: Karimnagar
-    ********************
+13) Karimnagar district
+    *******************
     
 Huzurabad 
 =========
@@ -369,10 +342,8 @@ Manakondur
 Thimmapur
 Chigurumamidi
 
--- completed --
-
-14) District: Rajanna Sircilla
-    **************************
+14) Rajanna Sircilla district
+    *************************
     
 Sircilla 
 ========
@@ -393,10 +364,8 @@ Boinpalle
 Vemulawada
 Konaraopeta
 
--- completed --
-
-15) District: Kamareddy
-    *******************
+15) Kamareddy district
+    ******************
     
 Banswada
 ========
@@ -429,10 +398,8 @@ Yellareddy
 Lingampet
 Gandhari
 
--- completed --
-
-16) District: Sangareddy
-    ********************
+16) Sangareddy district
+    *******************
     
 Andole-Jogipet 
 ==============
@@ -473,10 +440,8 @@ Mogudampally
 Kohir
 Jharasangam
 
--- completed --
-
-17) District: Medak
-    ***************
+17) Medak district
+    **************
     
 Medak 
 =====
@@ -508,10 +473,8 @@ Tupran
 Manoharabad
 Masaipet
 
--- completed --
-
-18) District: Siddipet
-    ******************
+18) Siddipet district
+    *****************
     
 Gajwel 
 ======
@@ -546,10 +509,8 @@ Komuravelli
 Cheriyal
 Narayanraopet
 
--- completed --
-
-19) District: Jangaon
-    *****************
+19) Jangaon district
+    ****************
     
 Ganpur_stn 
 ==========
@@ -569,10 +530,8 @@ Jangaon
 Lingalaghanpur
 Devaruppala
 
--- completed --
-
-20) District: Yadadri Bhuvanagiri
-    *****************************
+20) Yadadri Bhuvanagiri district
+    ****************************
     
 Bhongiri 
 ========
@@ -597,12 +556,10 @@ Narayanapur
 Ramannapeta
 Valigonda
 
--- completed --
+21) Medchal-Malkajgiri district
+    ***************************
 
-21) District: Medchal-Malkajgiri
-    ****************************
-    
-Keesara 
+Keesara
 =======
 Medchal
 Uppal
@@ -613,9 +570,9 @@ Keesara
 Ghatkesar
 Muduchinthalapally
 
-Malkajgiri 
+Malkajgiri
 ==========
-Dundigal 
+Dundigal
 Gandimaisamma
 Bachpally
 Quthbullapur
@@ -624,11 +581,9 @@ Alwal
 Malkajgiri
 Balanagar
 
--- completed --
+22) Hyderabad district
+    ******************
 
-22) District: Hyderabad
-    *******************
-    
 Hyderabad
 =========
 Amberpet
@@ -641,7 +596,7 @@ Bandlaguda
 Charminar
 Saidabad
 
-Secunderabad 
+Secunderabad
 ============
 Shaikpet
 Ameerpet
@@ -651,10 +606,8 @@ Maredpally
 Musheerabad
 Khairatabad
 
--- completed -- 
-
-23) District: Rangareddy
-    ********************
+23) Rangareddy district
+    *******************
     
 Chevella 
 ========
@@ -698,10 +651,8 @@ Farooqnagar
 Kondurg
 Jilled Chowdergudem
 
--- completed --
-
-24) District: Vikarabad
-    *******************
+24) Vikarabad district
+    ******************
     
 Tandur 
 ======
@@ -728,10 +679,8 @@ Kotepally
 Bantwaram
 Chowdapur
 
--- completed --
-
-25) District: Mahabubnagar
-    **********************
+25) Mahabubnagar district
+    *********************
     
 Mahabubnagar 
 ============
@@ -752,10 +701,8 @@ Jadcherla
 Midjil
 Mohammadabad
 
--- completed --
-
-26) District: Jogulamba Gadwal
-    **************************
+26) Jogulamba Gadwal district
+    *************************
     
 Gadwal 
 ======
@@ -772,10 +719,8 @@ Manopad
 Undavelli
 Alampur -- very nice temples
 
--- completed --
-
-27) District: Wanaparthy
-    ********************
+27) Wanaparthy district
+    *******************
     
 Wanaparthy 
 ==========
@@ -794,10 +739,8 @@ Srirangapur
 Weepangandla
 Chinnambavi
 
--- completed --
-
-28) District: Nagarkurnool
-    **********************
+28) Nagarkurnool district
+    *********************
     
 Achampet 
 ========
@@ -831,10 +774,8 @@ Nagar_Kurnool
 Tadoor
 Telkapalle
 
--- completed --
-
-29) District: Nalgonda
-    ******************
+29) Nalgonda district
+    *****************
     
 Devarakonda 
 ===========
@@ -876,10 +817,8 @@ Kangal
 Munugode
 Chandur
 
--- completed --
-
-30) District: Suryapet
-    ******************
+30) Suryapet district
+    *****************
     
 Huzurnagar 
 ==========
@@ -913,10 +852,8 @@ Mothey
 Chivvemla
 Penpahad
 
--- completed --
-
-31) District: Khammam
-    *****************
+31) Khammam district
+    ****************
     
 Kalluru 
 =======
@@ -945,10 +882,8 @@ Bonakal
 Madhira
 Yerrupalem
 
--- completed --
-
-32) District: Mulugu
-    ****************
+32) Mulugu district
+    ***************
     
 Mulug 
 =====
@@ -962,10 +897,8 @@ Wazeed
 Venkatapuram
 Mangapet
 
--- completed --
-
-33) District: Narayanpet
-    ********************
+33) Narayanpet district
+    *******************
     
 Narayanpet 
 ==========
@@ -980,5 +913,3 @@ Narva
 Marikal
 Dhanwada
 Maddur
-
--- completed --
