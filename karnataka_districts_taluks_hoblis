@@ -23,7 +23,7 @@ Bhalki
 ======
 Bhalki, 
 Sayaganva, 
-Nittura(B), 
+Nittura(B)  
 Khatakachinculi, 
 Lakhanaganva, 
 Halberga
@@ -31,14 +31,14 @@ Halberga
 Humanabad	
 =========
 Humanabad, 
-Hallilikheda(B), 
+Hallilikheda(B)  
 Dubalagundi, 
 Nirna, 
 Bhemalakheda
 
 Aurada
 ======
-Aurada(B), 
+Aurada(B)  
 Chintaki, 
 Santapoora, 
 Thanakusanura, 
@@ -68,7 +68,7 @@ Kalaburagi
 ==========
 Pattana, 
 Gulbarga, 
-Avarad(B), 
+Avarad(B)  
 Mahaganva, 
 Farhatabad
 
@@ -748,12 +748,12 @@ Koluru
 
 Shivamogga	
 ==========
-Kasaba(I), 
-Kasaba(II), 
-Nidige(I), 
-Nidige(II), 
-Holalura(I), 
-Holalura(II), 
+Kasaba(I)  
+Kasaba(II)  
+Nidige(I)  
+Nidige(II)  
+Holalura(I)  
+Holalura(II)  
 Kumsi, 
 Haranahalli, 
 Ayanuru
@@ -801,11 +801,11 @@ Agrahara
 
 Bhadravathi	
 ===========
-Kasaba (I), 
-Kasaba (II), 
+Kasaba (I)  
+Kasaba (II)  
 Kudligere, 
-Holehonnuru (I), 
-Holehonnuru (II), 
+Holehonnuru (I)  
+Holehonnuru (II)  
 Holehonnuru (III)
 
 16) District Center	Davanagere
@@ -980,7 +980,7 @@ Hosadurga
 =========
 kasaba, 
 Madadakere, 
-Mathodu , 
+Mathodu   
 Srirampur
 
 Molakalmuru	
@@ -1060,7 +1060,7 @@ Nuggehalli
 Holenarasipur	
 =============
 Kasaba, 
-Halekote , 
+Halekote   
 Hallimysuru
 
 Sakaleshpur
@@ -1328,48 +1328,251 @@ Mooguru
 26) District Center	Mandya
     **********************
 
-Mandya	Kasaba - 1, Kasaba - 2, Kottathi - 1, Kottathi - 2, Kerekodu -1, Kerekodu - 2, Duddu - 1, Duddu - 2, Basaralu - 1, Basaralu - 2
-Maddur	Kasaba-I division, Kasaba-II division, Aatagoru Hobli, koppa Hobli, koppa-I division, koppa-II division, koppa -III division, C.A.Kere I?? ???, C.A.Kere - II division, C.A.Kere- III division,
-Malavalli	Kasaba - I, Kasaba - II, Kasaba- III, Kirugavalu Hobli I, Kirugavalu Hobli II, Kirugavalu Hobli III, B.G.Pura Hobli I, B.G.Pura Hobli II, Halguru Hobli
-Srirangapatna	Kasaba , K.Shettihalli-1, K.Shettihalli-2, Arekere , Belegola
-Krishnarajapete	Kasaba, Kikkeri, Sheelaneri, Bookanakere, Akkihebbalu, Santhebachahalli
-Nagamangala	Kabasa, Devalapura , Belluru , Bindiganavele , honakere
-Pandavapura	Kasaba1 , Kasaba2, Chinakurli , Melukote
+Mandya	
+======
+Kasaba - 1, 
+Kasaba - 2, 
+Kottathi - 1, 
+Kottathi - 2, 
+Kerekodu -1, 
+Kerekodu - 2, 
+Duddu - 1, 
+Duddu - 2, 
+Basaralu - 1, 
+Basaralu - 2
+
+Maddur	
+======
+Kasaba-I division, 
+Kasaba-II division, 
+Aatagoru Hobli, 
+koppa Hobli, 
+koppa-I division, 
+koppa-II division, 
+koppa -III division, 
+C.A.Kere I division, 
+C.A.Kere - II division, 
+C.A.Kere- III division,
+
+Malavalli	
+=========
+Kasaba - I, 
+Kasaba - II, 
+Kasaba- III, 
+Kirugavalu Hobli I, 
+Kirugavalu Hobli II, 
+Kirugavalu Hobli III, 
+B.G.Pura Hobli I, 
+B.G.Pura Hobli II, 
+Halguru Hobli
+
+Srirangapatna	
+=============
+Kasaba 
+K.Shettihalli-1, 
+K.Shettihalli-2, 
+Arekere, 
+Belegola
+
+Krishnarajapete	
+===============
+Kasaba, 
+Kikkeri, 
+Sheelaneri, 
+Bookanakere, 
+Akkihebbalu, 
+Santhebachahalli
+
+Nagamangala
+===========
+Kabasa, 
+Devalapura, 
+Belluru, 
+Bindiganavele, 
+honakere
+
+Pandavapura	
+===========
+Kasaba1, 
+Kasaba2, 
+Chinakurli, 
+Melukote
 
 
 27) District Center	Chamarajanagar
     ******************************
 
-Chamarajanagar	Kasaba , Santemarahalli , Chandakavaadi , Haradanahalli , Harave
-Gundlupet	Kasaba , Hangala , Terekanambi , Begur
-Kollegal	Kasapalya
-Yelanduru	Kasaba gara
-Hanuru	Lokenahalli, Hanuru , Ramapura
+Chamarajanagar	
+==============
+Kasaba   
+Santemarahalli   
+Chandakavaadi   
+Haradanahalli   
+Harave
+
+Gundlupet	
+=========
+Kasaba   
+Hangala   
+Terekanambi   
+Begur
+
+Kollegal	
+========
+Kasapalya
+
+Yelanduru
+=========
+Kasaba gara
+
+Hanuru	
+======
+Lokenahalli, 
+Hanuru   
+Ramapura
 
 28) District Center	Ramanagara
     **************************
 
-Ramanagara	Kasaba , Kylancha , Kotgal, Bidadi , Kasaba-1, Kasaba-2, Kylancha -1, Kylancha -2, Bidadi- 1, Bidadi- 2
-Channapatna	Kasaba , Maluru , Virupakshipura
-Kanakapura	Kasaba , Harohalli , Maralavadi , Satanoru , Kodihalli , Uyyamballi
-Magadi	Kasaba , Madabala , Soluru , Kuduru , Thippasandra
+Ramanagara	
+==========
+Kasaba   
+Kylancha   
+Kotgal, 
+Bidadi   
+Kasaba-1, 
+Kasaba-2, 
+Kylancha -1,
+Kylancha -2, 
+Bidadi- 1, 
+Bidadi- 2
+
+Channapatna	
+===========
+Kasaba   
+Maluru   
+Virupakshipura
+
+Kanakapura
+==========
+Kasaba   
+Harohalli   
+Maralavadi   
+Satanoru   
+Kodihalli   
+Uyyamballi
+
+Magadi	
+======
+Kasaba   
+Madabala   
+Soluru   
+Kuduru   
+Thippasandra
 
 29) District Center	Bengaluru
     *************************
 
-Bengaluru North	Kasaba 1 , Kasaba 2, Yashwantpur 1, Yashwantpur 2, Dasanapur 1, Dasanapur 2, Dasanapur 3
-Bengaluru South	Uttrahalli -1, Uttrahalli -2, Uttrahalli -3, Uttrahalli -4, Begur - 1, Begur - 2, Begur - 3, Kengeri - 1, Kengeri - 2, Kengeri - 3, Tavarekere - 1, Tavarekere - 2, Tavarekere - 3, Kengeri-4, Uttarahalli -5,
-Anekal	Kasaba , jigani, Attibele1, Attibele2, Sarjapur1, Sarjapur2, Kasaba2, jigani2, Sarjapur3
-Bengaluru East	K.R.Puram1 , K.R.Puram2, K.R.Puram3, Varthur1, Varthur2, Bidarahalli1, Bidarahalli2, Mahadevpura, Marathalli , Bidarahalli3
-Yelahanka	Yelahanka1, Yelahanka2, Yelahanka3, Jalahalli1, Jalahalli2, Hesarughatta1, Hesarughatta2, Jalahalli3
+Bengaluru North
+===============
+Kasaba 1   
+Kasaba 2, 
+Yashwantpur 1, 
+Yashwantpur 2, 
+Dasanapur 1, 
+Dasanapur 2, 
+Dasanapur 3
+
+Bengaluru South	
+===============
+Uttrahalli -1,
+Uttrahalli -2, 
+Uttrahalli -3, 
+Uttrahalli -4, 
+Begur - 1, 
+Begur - 2, 
+Begur - 3, 
+Kengeri - 1, 
+Kengeri - 2, 
+Kengeri - 3, 
+Tavarekere - 1, 
+Tavarekere - 2, 
+Tavarekere - 3, 
+Kengeri-4, 
+Uttarahalli -5,
+
+Anekal	
+======
+Kasaba   
+jigani, 
+Attibele1, 
+Attibele2, 
+Sarjapur1, 
+Sarjapur2,
+Kasaba2, 
+jigani2, 
+Sarjapur3
+
+
+Bengaluru East	
+==============
+K.R.Puram1   
+K.R.Puram2, 
+K.R.Puram3, 
+Varthur1, 
+Varthur2, 
+Bidarahalli1, 
+Bidarahalli2, 
+Mahadevpura, 
+Marathalli  
+Bidarahalli3
+
+
+Yelahanka	
+=========
+Yelahanka1, 
+Yelahanka2, 
+Yelahanka3, 
+Jalahalli1, 
+Jalahalli2, 
+Hesarughatta1, 
+Hesarughatta2, 
+Jalahalli3
 
 30) District Center	Bangaluru (Bengaluru Rural)
     *******************************************
 
-Dodaballapur	Kasaba , Sasalu , Madure , Doddabelavangala , Thubagere
-Devanahalli	Vijayapura , Kasaba , Chennarayanapatna , Kundana
-Hosakote	Kasaba , Anugondanahalli , Judigenahlli , Sulibele , Nandagudi
-Nelamangala	Kasaba , Sompura , Thyamgondlu , Kasaba2, Sompura2 ,Thyamgondlu-2
+Dodaballapur
+============	
+Kasaba   
+Sasalu   
+Madure   
+Doddabelavangala   
+Thubagere
+
+Devanahalli	
+===========
+Vijayapura   
+Kasaba   
+Chennarayanapatna   
+Kundana
+
+Hosakote	
+========
+Kasaba   
+Anugondanahalli   
+Judigenahlli   
+Sulibele   
+Nandagudi
+
+Nelamangala	
+===========
+Kasaba   
+Sompura   
+Thyamgondlu   
+Kasaba2, 
+Sompura2  
+Thyamgondlu-2
 
 31) District Center	Kolar
     *********************
