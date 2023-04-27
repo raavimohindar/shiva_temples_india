@@ -63,6 +63,8 @@ Chinakurli
 Chintamani
 Chunchanakatte
 
+-- completed --
+
 D.Palya
 DabbeGhatta
 Dandiganahalli
@@ -78,6 +80,8 @@ Doodamagge
 Dudda
 Duggasandra
 
+-- completed --
+
 Gandasi
 Gauribidanur
 Gavadagere
@@ -87,10 +91,12 @@ Gubbi
 Gudibande
 Gundlupet
 
+-- completed --
+
 Hagalvadi
 Halebidu
 Halekote   
-Halguru Hobli
+Halguru
 Hallimysuru
 Hampapura
 Hanagodu
@@ -125,8 +131,12 @@ Hunsur
 Hutti Durga
 Huturu
 
+-- completed --
+
 I.D.Halli
 Ilavala
+
+-- completed --
 
 Jalahalli
 Jangamakote
@@ -134,6 +144,8 @@ Javagal
 Jayapura
 jigani
 Judigenahlli   
+
+-- completed --
 
 K.Hosakote
 K.R.Puram
@@ -175,6 +187,8 @@ Kylancha
 
 Lakkuru
 Lokenahalli
+
+-- completed --
 
 Maasti
 Madabala   
