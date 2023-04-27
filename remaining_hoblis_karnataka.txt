@@ -1,4 +1,4 @@
-Aatagoru Hobli
+Aatagoru
 Aavni
 Akkihebbalu
 Aluru
@@ -13,6 +13,8 @@ Arehalli
 Arekere
 Arsikere
 Attibele
+
+-- completed -- 
 
 B.G.Pura
 Bagamandala
@@ -43,6 +45,8 @@ Bookanakere
 Budikote
 Bukkapatna
 Byrakuru
+
+-- completed -- 
 
 C.A.Kere
 C.S.Pura
