@@ -303,6 +303,8 @@ Tondebavi
 Tumakuru
 Turuvekere
 
+-- completed --
+
 Uttrahalli
 Uyyamballi
 
@@ -313,6 +315,8 @@ Varuna
 Virajpet
 Virupakshipura
 
+-- completed --
+
 Y.N.Hosakote
 Yasaluru
 Yashwantpur
@@ -320,3 +324,5 @@ Yediyur
 Yelahanka
 Yelanduru
 Yelduru
+
+-- completed --
