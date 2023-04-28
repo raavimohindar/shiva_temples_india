@@ -185,6 +185,8 @@ Kushalnagar
 Kyasamballi
 Kylancha   
 
+-- completed --
+
 Lakkuru
 Lokenahalli
 
@@ -218,6 +220,8 @@ Munganahalli
 Muragamalla
 Mysuru
 
+-- completed --
+
 Nagalamadike
 Nagamangala
 Nagaragere
@@ -232,6 +236,8 @@ Nittur
 Nonavinakere
 Nuggehalli
 
+-- completed -- 
+
 Palya
 Pandavapura
 Pathapalya
@@ -240,6 +246,8 @@ Periyapatna
 Ponnampete
 Puravura
 
+-- completed --
+
 Ramanagara
 Ramanathapura
 Ramapura
@@ -247,6 +255,8 @@ Ravonduru
 Rayaladdu
 Robertsonpete
 Ronuru
+
+-- completed --
 
 Sadali
 Sakaleshpur
@@ -295,6 +305,8 @@ Turuvekere
 
 Uttrahalli
 Uyyamballi
+
+-- completed --
 
 Varthur
 Varuna
