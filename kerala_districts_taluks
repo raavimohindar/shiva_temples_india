@@ -1,200 +1,391 @@
-1) Kasaragod district
+14) KASARAGOD district
    ******************
 
-Kasaragod
-=========
-Manjeshwaram (HQ: Uppala)
-Kasaragod
+63 KASARAGOD
 
-Kanhangad
-=========
-Vellarikundu
-Hosdurg (HQ: Kanhangad)
+001 MANJESHWAR
+002 KASARAGOD
+003 UDMA
 
-2) Kannur district
-   ***************
+62 HOSDURG
 
-Taliparamba
-===========
-Payyanur
-Taliparamba
-Kannur
+004 KANHANGAD
+005 TRIKARIPUR
 
-Thalassery
-==========
-Thalassery
-Iritty
+-- completed --
 
-3) Wayanad district
-   ****************
-
-Mananthavady
-============
-Mananthavady
-Sulthan Bathery
-Vythiri (HQ: Kalpetta)
-
-4) Kozhikode district
-   ******************
-
-Vatakara
-========
-Vatakara
-Koyilandy
-
-Kozhikode
-=========
-Thamarassery
-Kozhikode
-
-5) Malappuram district
-   *******************
-
-Perinthalmanna
-==============
-Nilambur
-Eranad (HQ: Manjeri)
-Perinthalmanna
-
-Tirur
-=====
-Kondotty
-Tirurangadi
-Tirur
-Ponnani
-
-6) Palakkad district
-   *****************
-
-Ottappalam
-==========
-Pattambi
-Ottappalam
-Mannarkkad
-Attappady (HQ: Agali)
-
-Palakkad
-========
-Palakkad
-Chittur
-Alathur
-
-7) Thrissur district
-   *****************
-
-Thrissur
-========
-Thalapilly (HQ: Wadakkancheri)
-Kunnamkulam
-Chavakkad
-Thrissur
-
-Irinjalakuda
-============
-Kodungallur
-Mukundapuram (HQ: Irinjalakuda)
-Chalakudy
-
-8) Ernakulam district
-   ******************
-
-Ernakulam
-=========
-Kanayannur (HQ: Ernakulam)
-Kochi (HQ: Fort Kochi)
-North Paravur
-Aluva
-
-Muvattupuzha
-============
-Kothamangalam
-Muvattupuzha
-Kunnathunad(HQ: Perumbavoor)
-
-9) Idukki district
-   ***************
-
-Devikulam
-=========
-Peermade
-Udumbanchola (HQ: Nedumkandam)
-Devikulam
-
-Idukki
-======
-Idukki (HQ: Painavu)
-Thodupuzha
-
-10) Kottayam district
-    *****************
-
-Kottayam
-========
-Changanasserry
-Kottayam
-Kanjirappally
-
-Palai
-=====
-Meenachil (HQ: Palai)
-Vaikom
-
-11) Alappuzha district
-    ******************
-
-Chengannur
-==========
-Chengannur,
-Mavelikkara,
-Karthikappally (HQ: Haripad)
-
-Alappuzha
-=========
-Kuttanad (HQ: Mankombu),
-Ambalappuzha (HQ: Alappuzha),
-Cherthala
-
-12) Pathanamthitta district
-    ***********************
-
-Adoor
-=====
-Adoor
-Konni
-Kozhencherry (HQ: Pathanamthitta)
-
-Thiruvalla
-==========
-Ranni
-Mallappally
-Thiruvalla
-
-13) Kollam district
+13) KANNUR district
     ***************
 
-Kollam
-======
-Kollam
-Kunnathoor (HQ: Sasthamcotta)
-Karunagappally
+61 TALIPARAMBA
 
-Punalur
-=======
-Punalur
-Pathanapuram
-Kottarakkara
+006 PAYYANNUR
+008 TALIPARAMBA
+009 IRIKKUR
 
-14) Thiruvananthapuram district
-    ***************************
+60 KANNUR
 
-Thiruvananthapuram
-==================
-Thiruvananthapuram
-Chirayinkeezhu (HQ: Attingal)
-Varkala
-Neyyattinkara
+007 KALLIASSERI
+010 AZHIKODE
+011 KANNUR
+012 DHARMADAM
 
-Nedumangad
-==========
-Kattakkada
-Nedumangadu
+59 THALASSERY
+
+013 THALASSERY
+014 KUTHUPARAMBA
+015 MATTANNUR
+016 PERAVOOR
+
+-- completed --
+
+12) WYNAD district
+    **************
+
+55 MANANTHAVADY
+
+017 MANANTHAVADY (ST)
+
+54 VYTHIRI
+
+019 KALPETTA
+
+53 SULTHANBATHERY
+
+018 SULTHANBATHERY (ST)
+
+-- completed --
+
+11) KOZHIKODE district
+    ******************
+
+58 VADAKARA
+
+020 VADAKARA
+021 KUTTIADI
+022 NADAPURAM
+
+57 QUILANDY
+
+023 QUILANDY
+024 PERAMBRA
+025 BALUSSERI (SC)
+
+56 KOZHIKODE
+
+026 ELATHUR
+027 KOZHIKODE NORTH
+028 KOZHIKODE SOUTH
+029 BEYPORE
+030 KUNNAMANGALAM
+031 KODUVALLY
+032 THIRUVAMBADY
+
+-- completed --
+
+10) MALAPPURAM district
+    *******************
+
+52 NILAMBUR
+035 NILAMBUR
+036 WANDOOR (SC)
+
+51 ERANAD
+
+033 KONDOTTY
+034 ERANAD
+037 MANJERI
+040 MALAPPURAM
+
+50 TIRURANGADI
+
+041 VENGARA
+042 VALLIKKUNNU
+043 TIRURANGADI
+
+49 TIRUR
+
+044 TANUR
+045 TIRUR
+046 KOTTAKKAL
+
+48 PONNANI
+
+047 THAVANUR
+048 PONNANI
+
+47 PERINTHALMANNA
+
+038 PERINTHALMANNA
+039 MANKADA
+
+-- completed --
+
+09) PALAKKAD district
+    *****************
+
+46 OTTAPALAM
+
+049 THRITHALA
+050 PATTAMBI
+051 SHORNUR
+052 OTTAPALAM
+
+45 MANNARKAD
+
+054 MANNARKAD
+
+44 PALAKKAD
+
+053 KONGAD (SC)
+055 MALAMPUZHA
+056 PALAKKAD
+
+43 CHITTUR
+
+058 CHITTUR
+059 NENMARA
+
+42 ALATHUR
+
+057 TARUR (SC)
+060 ALATHUR
+
+-- completed --
+
+08) TRICHUR district
+    ****************
+
+41 THALAPPALLY
+
+061 CHELAKKARA (SC)
+062 KUNNAMKULAM
+065 WADAKKANCHERY
+
+40 TRICHUR
+
+066 OLLUR
+067 THRISSUR
+068 NATTIKA (SC)
+
+39 MUKUNDAPURAM
+
+070 IRINJALAKKUDA
+071 PUTHUKKAD
+072 CHALAKKUDY
+
+38 CHAVAKKAD
+
+063 GURUVAYOOR
+064 MANALUR
+
+37 KODUNGALLUR
+
+069 KAIPAMANGALAM
+073 KODUNGALLUR
+
+-- completed --
+
+07) ERANAKULAM district
+    *******************
+
+36 PARAVOOR
+
+077 KALAMASSERY
+078 PARAVUR
+
+35 KOCHI
+
+079 VYPEN
+080 KOCHI
+
+34 KANAYANNUR
+
+081 THRIPUNITHURA
+082 ERANAKULAM
+083 THRIKKAKARA
+
+33 ALUVA
+
+075 ANGAMALY
+076 ALUVA
+
+32 KUNNATHUNAD
+
+074 PERUMBAVOOR
+084 KUNNATHUNAD (SC)
+
+31 MUVATTUPUZHA
+
+085 PIRAVOM
+086 MUVATTUPUZHA
+
+30 KOTHAMANGALAM
+
+087 KOTHAMANGALAM
+
+-- completed --
+
+06) IDUKKI district
+    ***************
+
+29 THODUPUZHA
+
+090 THODUPUZHA
+
+28 DEVIKULAM
+
+088 DEVIKULAM (SC)
+
+27 UDUMBANCHOLA
+
+089 UDUMBANCHOLA
+091 IDUKKI
+
+26 PEERUMADE
+
+092 PEERUMADE
+
+-- completed --
+
+05) KOTTAYAM district
+    *****************
+
+25 KANHIRAPALLY
+
+100 KANJIRAPPALLY
+101 POONJAR
+
+24 CHANGANASSERY
+
+099 CHANGANASSERY
+
+23 KOTTAYAM
+
+096 ETTUMANOOR
+097 KOTTAYAM
+098 PUTHUPPALLY
+
+22 MEENICHIL
+
+093 PALA
+094 KADATHURUTHY
+
+21 VAIKOM
+
+095 VAIKOM (SC)
+
+-- completed --
+
+04) ALAPPUZHA district
+    ******************
+
+20 CHERTHALA
+
+102 AROOR
+103 CHERTHALA
+
+19 AMBALAPUZHA
+
+104 ALAPPUZHA
+105 AMBALAPUZHA
+
+18 KUTTANAD
+
+106 KUTTANAD
+
+17 KARTHIKAPALLY
+
+107 HARIPAD
+108 KAYUMKULAM
+
+16 CHENGANNUR
+
+110 CHENGANNUR
+
+15 MEVILIKARA
+
+109 MAVELIKARA (SC)
+
+-- completed --
+
+03) PATHANAMTHITTA district
+    ***********************
+
+14 THIRUVALLA
+
+111 THIRUVALLA
+
+12 RANNI
+
+112 RANNI
+
+11 KOZHANCHERY
+
+113 ARANMULA
+114 KONNI
+
+10 ADOOR
+
+115 ADOOR (SC)
+
+-- completed --
+
+02) KOLLAM district
+    ***************
+
+09 PATHANAPURAM
+
+120 PATHANAPURAM
+121 PUNALOOR
+
+08 KOTTTARAKARA
+
+119 KOTTARAKKARA
+122 CHADAYAMANGALAM
+
+07 KUNNATHUR
+
+118 KUNNATHUR (SC)
+
+06 KARUNAGAPALLY
+
+116 KARUNAGAPPALLY
+117 CHAVARA
+
+05 KOLLAM
+
+123 KUNDARA
+124 KOLLAM
+125 ERAVIPURAM
+126 CHATHANNOOR
+
+-- completed --
+
+01) TRIVANDRUM district
+    *******************
+
+04 CHIRAYINKEEZH
+
+127 VARKALA
+128 ATTINGAL (SC)
+129 CHIRAYANKEEZHU (SC)
+
+03 NEDUMANGAD
+
+130 NEDUMANGAD
+131 VAMANAPURAM
+136 ARUVIKKARA
+
+02 THIRUVANANTHAPURAM
+
+132 KAZHAKKOOTTAM
+133 VATTIYOORKAVU
+134 THIRUVANANTHAPURAM
+135 NEMOM
+
+01 NEYYATTINKARA
+
+137 PARASALA
+138 KATTAKADA
+139 KOVALAM
