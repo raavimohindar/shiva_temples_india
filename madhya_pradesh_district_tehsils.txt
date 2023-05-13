@@ -1,0 +1,182 @@
+1) Bhopal (Bhopal division)
+   ******
+Huzur
+Berasia
+Kolar
+
+2) Raisen
+   ******
+Raisen
+Goharganj
+Begumganj
+Gairatganj
+Silwani
+Bareli
+Badi
+Udaipura
+Sultanpur
+
+3) Rajgarh
+   *******
+Rajgarh
+Khilchipur
+Zirapur
+Biaora
+Narsinghgarh
+Sarangpur
+Pachore
+Khujner
+Suthaliya
+
+4) Sehore
+   ******
+Sehore Urban
+Sehore Rural
+Shyampur
+Ashta
+Jawar
+Ichhawar
+Nasrullaganj
+Budni
+Rehti
+
+5) Vidisha
+   *******
+Vidisha Urban
+Vidisha Rural
+GanjBasoda
+Gyaraspur
+Kurwai
+Lateri
+Nateran
+Sironj
+Gulabganj
+Pathari
+Shamshanad
+Tyonda
+
+6) Alirajpur (Indore division)
+   *********
+Alirajpur
+Jobat
+Sondwa
+Chandra Shekhar Ajad Nagar
+Kathiwada
+
+7) Barwani
+   *******
+Barwani
+Pati
+Sendhwa
+Verla
+Anjad
+Rajpur
+Thikari
+Nivaali
+Pansemal
+
+8) Burhanpur
+   *********
+Burhanpur
+Khaknaar
+Nepanagar
+
+9) Dhar
+   ****
+Dhar
+Badnawar
+Kukshi
+Manawar
+Gandhwani
+Dahi
+Dharmpuri
+Sardarpur
+Pithampur
+
+10) Jhabua
+    ******
+Ranapur
+Thandla
+Petlawad
+Jhabua
+Meghnagar
+Raama
+
+11) Indore 
+    ******
+Indore
+Mhow
+Sanwer
+Depalpur
+Hatod
+
+12) Khandwa
+    *******
+Khandwa
+Pandhana
+Punaasa
+Harsud
+Khalwa
+
+13) Khargone
+    ********
+Khargone
+Kasarawad
+Maheshwar
+Badwah
+Sanawad
+Gogaon
+Bhikangaon
+Jhirnya
+Bhagwanpura
+Segaon
+
+
+14) Rewa (Rewa division)
+    ****
+Huzur
+Huzur Rural
+Gurh
+Raipur Karchuliyan
+Mangawan
+Sirmour
+Semariya
+Hanumana
+Mauganj
+Jawa
+Teonthar
+Naigarhi
+
+15) Satna
+    *****
+Raghuraj garh
+Kothi
+Majhgawan
+Nagaud
+Uchehra
+Amarpatan
+Maihar
+Ramnagar
+Rampur Baghelan
+Kotar
+
+16) Sidhi
+    *****
+Gopad Banas
+Sihawal
+Majhauli
+Kusmi
+Rampur Naikin
+Churhat
+Bahri
+
+17) Singrauli
+    *********
+Singrauli Urban
+Singrauli Rural
+Devsar
+Chitrangi
+Madaa
+Surai
+
+18) 
