@@ -1,0 +1,20 @@
+maharastra 			= 4523
+
+karnataka 			= 2544
+
+odisa 				= 4087
+
+andhra 				= 2904
+
+chhattisghar 			= 2202
+
+kerala 				= 2240
+
+tamil nadu 			= 1255+1802
+
+telangana 			= 2197  
+
+==============================	= 23754 
+
+
+
